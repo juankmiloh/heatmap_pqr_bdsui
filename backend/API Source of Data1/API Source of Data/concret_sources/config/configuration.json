@@ -1,0 +1,9 @@
+{
+  "oracle_credentials":{
+    "usuario": "JHERRERAA",
+    "contrasena": "C0l0mb1a_Sep2019",
+    "host": "dbsui2.admin.gov.co",
+    "port": "2230",
+    "SID": "DBSUI"
+  }
+}
